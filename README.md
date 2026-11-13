@@ -1,0 +1,1 @@
+# aoe2-companion-updates
